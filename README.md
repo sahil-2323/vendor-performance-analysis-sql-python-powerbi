@@ -1,6 +1,6 @@
 # Vendor Performance Analysis- Retail Inventory & Sales
 
-## One-Line Summary
+## Summary
 A data-driven vendor performance analysis project that identifies top and underperforming vendors and brands using Python, SQL, and an interactive Power BI dashboard to optimize profitability and inventory management.
 
 ---
